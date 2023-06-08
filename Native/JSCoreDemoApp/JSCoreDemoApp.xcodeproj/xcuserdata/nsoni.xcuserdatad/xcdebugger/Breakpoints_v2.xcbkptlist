@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "A628A94A-4416-4493-8C2B-6C14129BFF38"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9A2099EF-C33F-419D-9809-D4111D4C0C1F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "JSCoreDemoApp/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "showResultAction(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "33A7EB3D-31DD-420C-85F8-6D6A179BF19C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "JSCoreDemoApp/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "showResultAction(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "33A7EB3D-31DD-420C-85F8-6D6A179BF19C - 7b2a5b9d258c6e45"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "JSCoreDemoApp.ViewController.showResultAction(Any) -&gt; ()"
+                  moduleName = "JSCoreDemoApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nsoni/Documents/Demo/JSCoreDemo/Native/JSCoreDemoApp/JSCoreDemoApp/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "1180">
+               </Location>
+               <Location
+                  uuid = "33A7EB3D-31DD-420C-85F8-6D6A179BF19C - f0dd25f0d1fbc0d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Float) -&gt; () in JSCoreDemoApp.ViewController.showResultAction(Any) -&gt; ()"
+                  moduleName = "JSCoreDemoApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nsoni/Documents/Demo/JSCoreDemo/Native/JSCoreDemoApp/JSCoreDemoApp/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "252">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
